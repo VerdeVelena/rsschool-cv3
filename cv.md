@@ -105,7 +105,7 @@ var number = function(busStops){
 
 ### **Education**
 
-- 2022 RS School JS / FRONT-END cours
+- 2023 RS SChool Stage0 / FRONT-END cours
 
 - 2021/2022 Udemy Frontend courses
 
@@ -114,8 +114,4 @@ var number = function(busStops){
 
 ### **Languages**
 
-Romanian / Russian native lenguages
-
 English A2-B1
-
-Polish A2-B1
