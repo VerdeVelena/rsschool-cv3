@@ -28,9 +28,10 @@ My hobbies are traveling, handmade, reading and photography.
 ---
 
 - HTML
-- CSS
-- JavaSkript
+- CSS/Sass
+- JavaScript
 - Git/VS/Terminal
+- Github
 
 ### **Code exemples :**
 
